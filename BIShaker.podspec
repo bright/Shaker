@@ -9,12 +9,11 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "A short description of BIShaker."
   s.description      = "TBD"
-  s.homepage         = "http://EXAMPLE/NAME"
+  s.homepage         = "brightinventions.pl"
   s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Mateusz Klimczak" => "mateusz.klimczak@brightinventions.pl" }
-  s.source           = { :git => "http://EXAMPLE/NAME.git", :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/EXAMPLE'
+  s.source           = { :git => "https://github.com/bright/Shaker.git", :tag => s.version.to_s }
 
   # s.platform     = :ios, '5.0'
   # s.ios.deployment_target = '5.0'
